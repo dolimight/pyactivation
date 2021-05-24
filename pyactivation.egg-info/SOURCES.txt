@@ -1,0 +1,9 @@
+LICENSE.txt
+README.md
+setup.cfg
+setup.py
+pyactivation/__init__.py
+pyactivation.egg-info/PKG-INFO
+pyactivation.egg-info/SOURCES.txt
+pyactivation.egg-info/dependency_links.txt
+pyactivation.egg-info/top_level.txt

@@ -1,5 +1,5 @@
 # Pyactivation
-## Version 0.0.1
+## Version 0.0.2
 
 A small library for creating and validating license keys.
 
