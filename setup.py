@@ -8,7 +8,7 @@ setup(
   author = 'Wesley Jochman',        
   author_email = 'dolimightdesigns@gmail.com',   
   url = 'https://github.com/dolimight/pyactivation',   
-  download_url = 'https://github.com/user/reponame/archive/v_01.tar.gz',
+  download_url = 'https://github.com/dolimight/pyactivation/archive/refs/tags/v_0.0.1.tar.gz',
   keywords = ['Activation', 'License', 'Key'],
   install_requires=[],
   classifiers=[

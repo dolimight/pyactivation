@@ -1,4 +1,6 @@
-# License Key Gen
+# Pyactivation
+## Version 0.0.1
+
 A small library for creating and validating license keys.
 
 ### Installation
